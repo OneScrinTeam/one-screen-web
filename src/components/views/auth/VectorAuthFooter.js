@@ -44,8 +44,8 @@ const VectorAuthFooter = () => {
 
     return (
         <div className="mx_AuthFooter">
-            {authFooterLinks}
-            <a href="https://onescrin.citural.com.ng" target="_blank" rel="noreferrer noopener">{ _t('Powered by OneScrin') }</a>
+            {/* {authFooterLinks}
+            <a href="https://onescrin.citural.com.ng" target="_blank" rel="noreferrer noopener">{ _t('Powered by OneScrin') }</a> */}
         </div>
     );
 };
